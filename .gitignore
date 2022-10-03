@@ -5,6 +5,7 @@ __pycache__/
 
 
 test/
+exampel/
 
 # C extensions
 *.so
