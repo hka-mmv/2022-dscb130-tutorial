@@ -6,7 +6,6 @@ __pycache__/
 
 test/
 exampel/
-Tut_2/
 # C extensions
 *.so
 
